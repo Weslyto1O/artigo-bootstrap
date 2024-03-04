@@ -1,0 +1,16 @@
+body{
+    background-color: #ffffff
+}
+
+#paragrafo,h1{
+    background-color: #d0f9dc 
+}
+
+#barranav{
+    background-color: rgb(64, 64, 64);
+}
+
+#conteúdo{
+    font-size:medium;
+
+}
